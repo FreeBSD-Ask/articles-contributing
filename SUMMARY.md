@@ -1,6 +1,6 @@
 # Table of contents
 
-* [articles-contributing](README.md)
+* [为 FreeBSD 做贡献](README.md)
 * [概述](gai-shu.md)
 
 ## 1.需要什么
